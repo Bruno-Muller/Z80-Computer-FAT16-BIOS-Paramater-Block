@@ -1,0 +1,9 @@
+*.bin
+*.ihx
+*.lk
+*.lst
+*.map
+*.noi
+*.npp
+*.rel
+*.sym
